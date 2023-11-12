@@ -1,0 +1,115 @@
+{
+    "billboards": [
+      {
+        "id": 6,
+        "name": "1690 Valencia st",
+        "latitude": 37.745948641168376,
+        "longitude": -122.42042721763978,
+        "billboard_type": "static",
+        "base_price": 120
+      },
+      {
+        "id": 7,
+        "name": "2730 Bryant Street @ 25th Street",
+        "latitude": 37.75057321879483,
+        "longitude": -122.40917163298104,
+        "billboard_type": "digital",
+        "base_price": 90
+      },
+      {
+        "id": 8,
+        "name": "Cesar Chavez and mission street",
+        "latitude": 37.74832450155926,
+        "longitude": -122.41799927143036,
+        "billboard_type": "static",
+        "base_price": 100
+      },
+      {
+        "id": 9,
+        "name": "So Van Ness El",
+        "latitude": 37.762017590111085,
+        "longitude": -122.4170550581202,
+        "billboard_type": "digital",
+        "base_price": 120
+      },
+      {
+        "id": 10,
+        "name": " El Honduras",
+        "latitude": 37.748622505631,
+        "longitude": -122.41786843298121,
+        "billboard_type": "digital",
+        "base_price": 90
+      },
+      {
+        "id": 11,
+        "name":"Chavitas",
+        "latitude":37.756465615827224,
+        "longitude": -122.41692067901944,
+        "billboard_type":"digital",
+        "base_price": 90
+        },
+        {
+          "id": 12,
+        "name":"San Bruno ave",
+        "latitude":37.736045158984865, 
+        "longitude":-122.40775933113405,
+        "billboard_type":"static",
+        "base_price": 120
+        },
+        {
+          "id": 13,
+        "name":"Cobra's Motorcycle Club",
+        "latitude":37.71638797384331,
+        "longitude":-122.46260941237568,
+        "billboard_type":"digital",
+        "base_price": 120
+        },
+        {
+          "id": 14,
+        "name":"Jerrold Ave & Bayshore Blvd",
+        "latitude":37.74744494161783,
+        "longitude":-122.40355955996888,
+        "billboard_type":"static",
+        "base_price": 100
+        },
+        {
+          "id": 15,
+        "name":"The Skyway Square Skyway & Brannan",
+        "latitude":37.78424688159336,
+        "longitude": -122.38802556181473,
+        "billboard_type":"static",
+        "base_price": 90
+        },
+        {
+          "id": 16,
+        "name":"10th St & Sheridan St",
+        "latitude":37.772255365360216,
+        "longitude":-122.41193276181544,
+        "billboard_type":"digital",
+        "base_price": 120
+        },
+        {
+          "id": 17,
+        "name":"8th street",
+        "latitude":37.77259741970465,
+        "longitude":-122.40711704832165,
+        "billboard_type":"static",
+        "base_price": 100
+        },{
+          "id": 18,
+          "name": "Little Tree",
+          "latitude": 37.746534699135644,
+          "longitude": -122.4191817882954,
+          "billboard_type": "digital",
+          "base_price": 150 
+        },
+        {
+          "id": 19,
+          "name": "Clinton Park",
+          "latitude": 37.769488364040946,
+          "longitude": -122.42432513681852,
+          "billboard_type":"static",
+          "base_price": 120
+        }
+    ]
+}
